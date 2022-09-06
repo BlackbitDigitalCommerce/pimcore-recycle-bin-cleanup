@@ -1,6 +1,6 @@
 {
   "name": "blackbit_digital_commerce/recycle-bin-cleanup",
-  "description": "Remove elements from recycle bin after configurable amount of time",
+  "description": "Automatically remove elements from recycle bin after configurable amount of time",
   "version": "1.0.0",
   "homepage": "https://pimcore.blackbit.com/",
   "license": "GPL-3.0-or-later",
